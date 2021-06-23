@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="428" height="672" viewBox="0 0 428 672">
+  <defs>
+    <clipPath id="clip-Menu">
+      <rect width="428" height="672"/>
+    </clipPath>
+  </defs>
+  <g id="Menu" clip-path="url(#clip-Menu)">
+    <rect width="428" height="672" fill="#484b4d"/>
+    <line id="Linha_1" data-name="Linha 1" x1="40.244" y2="40.244" transform="translate(34.5 44.043)" fill="none" stroke="#d9e0e6" stroke-width="2"/>
+    <line id="Linha_2" data-name="Linha 2" x2="40.244" y2="40.244" transform="translate(34.5 44.043)" fill="none" stroke="#d9e0e6" stroke-width="2"/>
+    <text id="Home" transform="translate(68 201)" fill="#d9e0e6" font-size="36" font-family="ArialMT, Arial"><tspan x="-48.015" y="0">Home</tspan></text>
+    <text id="Cadastrar_Projeto" data-name="Cadastrar Projeto" transform="translate(161 267)" fill="#d9e0e6" font-size="36" font-family="ArialMT, Arial"><tspan x="-141.064" y="0">Cadastrar Projeto</tspan></text>
+    <text id="Sair" transform="translate(52 333)" fill="#d9e0e6" font-size="36" font-family="ArialMT, Arial"><tspan x="-32.01" y="0">Sair</tspan></text>
+  </g>
+</svg>

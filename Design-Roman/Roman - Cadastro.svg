@@ -1,0 +1,42 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="428" height="672" viewBox="0 0 428 672">
+  <defs>
+    <clipPath id="clip-path">
+      <rect width="45" height="39" fill="none"/>
+    </clipPath>
+    <clipPath id="clip-Roman_-_Cadastro">
+      <rect width="428" height="672"/>
+    </clipPath>
+  </defs>
+  <g id="Roman_-_Cadastro" data-name="Roman - Cadastro" clip-path="url(#clip-Roman_-_Cadastro)">
+    <rect width="428" height="672" fill="#fff"/>
+    <path id="Caminho_1" data-name="Caminho 1" d="M0,0H428V111H0Z" fill="#d9e0e6"/>
+    <g id="Repetição_de_grade_1" data-name="Repetição de grade 1" transform="translate(20 39)" clip-path="url(#clip-path)">
+      <g transform="translate(-20 -20)">
+        <rect id="Retângulo_2" data-name="Retângulo 2" width="45" height="8" transform="translate(20 20)" fill="#484b4d"/>
+      </g>
+      <g transform="translate(-20 -7)">
+        <rect id="Retângulo_2-2" data-name="Retângulo 2" width="45" height="8" transform="translate(20 20)" fill="#484b4d"/>
+      </g>
+      <g transform="translate(-20 6)">
+        <rect id="Retângulo_2-3" data-name="Retângulo 2" width="45" height="8" transform="translate(20 20)" fill="#484b4d"/>
+      </g>
+    </g>
+    <rect id="Retângulo_4" data-name="Retângulo 4" width="89" height="52" transform="translate(317 30)" fill="#484b4d"/>
+    <text id="Logo" transform="translate(342 62)" fill="#d9e0e6" font-size="18" font-family="ArialMT, Arial"><tspan x="0" y="0">Logo</tspan></text>
+    <g id="btn" transform="translate(0 -46)">
+      <rect id="Retângulo_9" data-name="Retângulo 9" width="289" height="61" rx="10" transform="translate(70 587)" fill="#484b4d"/>
+      <text id="Cadastrar" transform="translate(214 626)" fill="#d9e0e6" font-size="24" font-family="ArialMT, Arial"><tspan x="-52.688" y="0">Cadastrar</tspan></text>
+    </g>
+    <g id="Retângulo_11" data-name="Retângulo 11" transform="translate(70 256)" fill="#fff" stroke="#707070" stroke-width="1">
+      <rect width="289" height="70" stroke="none"/>
+      <rect x="0.5" y="0.5" width="288" height="69" fill="none"/>
+    </g>
+    <g id="Retângulo_12" data-name="Retângulo 12" transform="translate(70 366)" fill="#fff" stroke="#707070" stroke-width="1">
+      <rect width="289" height="138" stroke="none"/>
+      <rect x="0.5" y="0.5" width="288" height="137" fill="none"/>
+    </g>
+    <text id="Descrição_" data-name="Descrição " transform="translate(215 361)" fill="#484b4d" font-size="24" font-family="ArialMT, Arial"><tspan x="-56.684" y="0">Descrição </tspan></text>
+    <text id="Projeto" transform="translate(215 251)" fill="#484b4d" font-size="24" font-family="ArialMT, Arial"><tspan x="-38.021" y="0">Projeto</tspan></text>
+    <text id="Cadastro" transform="translate(141 174)" fill="#484b4d" font-size="36" font-family="ArialMT, Arial"><tspan x="0" y="0">Cadastro</tspan></text>
+  </g>
+</svg>

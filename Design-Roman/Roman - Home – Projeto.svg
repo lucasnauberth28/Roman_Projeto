@@ -1,0 +1,47 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="428" height="897" viewBox="0 0 428 897">
+  <defs>
+    <clipPath id="clip-path">
+      <rect width="45" height="39" fill="none"/>
+    </clipPath>
+    <clipPath id="clip-Roman_-_Home_Projeto">
+      <rect width="428" height="897"/>
+    </clipPath>
+  </defs>
+  <g id="Roman_-_Home_Projeto" data-name="Roman - Home – Projeto" clip-path="url(#clip-Roman_-_Home_Projeto)">
+    <rect width="428" height="897" fill="#fff"/>
+    <rect id="Retângulo_16" data-name="Retângulo 16" width="379" height="307" transform="translate(28 572)" fill="#d9e0e6"/>
+    <path id="Caminho_1" data-name="Caminho 1" d="M0,0H428V111H0Z" fill="#d9e0e6"/>
+    <g id="Repetição_de_grade_1" data-name="Repetição de grade 1" transform="translate(20 39)" clip-path="url(#clip-path)">
+      <g transform="translate(-20 -20)">
+        <rect id="Retângulo_2" data-name="Retângulo 2" width="45" height="8" transform="translate(20 20)" fill="#484b4d"/>
+      </g>
+      <g transform="translate(-20 -7)">
+        <rect id="Retângulo_2-2" data-name="Retângulo 2" width="45" height="8" transform="translate(20 20)" fill="#484b4d"/>
+      </g>
+      <g transform="translate(-20 6)">
+        <rect id="Retângulo_2-3" data-name="Retângulo 2" width="45" height="8" transform="translate(20 20)" fill="#484b4d"/>
+      </g>
+    </g>
+    <rect id="Retângulo_4" data-name="Retângulo 4" width="89" height="52" transform="translate(317 30)" fill="#484b4d"/>
+    <text id="Logo" transform="translate(342 62)" fill="#d9e0e6" font-size="18" font-family="ArialMT, Arial"><tspan x="0" y="0">Logo</tspan></text>
+    <g id="Retângulo_6" data-name="Retângulo 6" transform="translate(0 111)" fill="#a9aeb3" stroke="#707070" stroke-width="1">
+      <rect width="428" height="285" stroke="none"/>
+      <rect x="0.5" y="0.5" width="427" height="284" fill="none"/>
+    </g>
+    <text id="Veja_novas_ideias_de_projetos_para_seus_alunos" data-name="Veja novas ideias de projetos para seus alunos" transform="translate(82 159)" fill="#484b4d" font-size="30" font-family="Arial-BoldMT, Arial" font-weight="700"><tspan x="37.476" y="27">VEJA NOVAS </tspan><tspan x="57.485" y="77">IDEIAS DE </tspan><tspan x="5.527" y="127">PROJETOS PARA </tspan><tspan x="24.709" y="177">SEUS ALUNOS</tspan></text>
+    <g id="Retângulo_8" data-name="Retângulo 8" transform="translate(0 396)" fill="#fff" stroke="#707070" stroke-width="1">
+      <rect width="428" height="162" stroke="none"/>
+      <rect x="0.5" y="0.5" width="427" height="161" fill="none"/>
+    </g>
+    <text id="Selecione_o_tema_para_ver_projetos" data-name="Selecione o tema para ver projetos" transform="translate(21 431)" fill="#484b4d" font-size="24" font-family="ArialMT, Arial"><tspan x="-186.105" y="22">Selecione o tema para ver projetos</tspan></text>
+    <g id="btn" transform="translate(0 -61)">
+      <rect id="Retângulo_9" data-name="Retângulo 9" width="289" height="61" rx="10" transform="translate(70 539)" fill="#484b4d"/>
+      <text id="Selecione..." transform="translate(214 576)" fill="#d9e0e6" font-size="24" font-family="ArialMT, Arial"><tspan x="-62.707" y="0">Selecione...</tspan></text>
+      <path id="Polígono_1" data-name="Polígono 1" d="M10.5,0,21,18H0Z" transform="translate(338 581) rotate(180)" fill="#d9e0e6"/>
+    </g>
+    <rect id="Retângulo_11" data-name="Retângulo 11" width="289" height="70" transform="translate(70 599)" fill="#fff"/>
+    <rect id="Retângulo_12" data-name="Retângulo 12" width="289" height="138" transform="translate(70 709)" fill="#fff"/>
+    <text id="Descrição_" data-name="Descrição " transform="translate(214 704)" fill="#484b4d" font-size="24" font-family="ArialMT, Arial"><tspan x="-56.684" y="0">Descrição </tspan></text>
+    <text id="Projeto" transform="translate(214 594)" fill="#484b4d" font-size="24" font-family="ArialMT, Arial"><tspan x="-38.021" y="0">Projeto</tspan></text>
+  </g>
+</svg>
