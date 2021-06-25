@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="428" height="673" viewBox="0 0 428 673">
+  <defs>
+    <clipPath id="clip-Login">
+      <rect width="428" height="673"/>
+    </clipPath>
+  </defs>
+  <g id="Login" clip-path="url(#clip-Login)">
+    <rect width="428" height="673" fill="#f1f1f1"/>
+    <rect id="Retângulo_14" data-name="Retângulo 14" width="248" height="144" transform="translate(90 101)" fill="#a9aeb3"/>
+    <text id="Logo" transform="translate(156 191)" fill="#484b4d" font-size="52" font-family="ArialMT, Arial"><tspan x="0" y="0">Logo</tspan></text>
+    <line id="Linha_3" data-name="Linha 3" x2="313" transform="translate(57.75 434)" fill="none" stroke="#707070" stroke-width="1"/>
+    <line id="Linha_4" data-name="Linha 4" x2="313" transform="translate(57.75 363)" fill="none" stroke="#707070" stroke-width="1"/>
+    <text id="Email" transform="translate(57.25 359.5)" fill="#484b4d" font-size="18" font-family="ArialMT, Arial"><tspan x="0" y="0">Email</tspan></text>
+    <text id="Senha" transform="translate(57.25 430)" fill="#484b4d" font-size="18" font-family="ArialMT, Arial"><tspan x="0" y="0">Senha</tspan></text>
+    <rect id="Retângulo_15" data-name="Retângulo 15" width="248" height="85" rx="10" transform="translate(90.25 489.5)" fill="#484b4d"/>
+    <text id="Entrar" transform="translate(165.25 544.5)" fill="#d9e0e6" font-size="36" font-family="ArialMT, Arial"><tspan x="0" y="0">Entrar</tspan></text>
+  </g>
+</svg>
